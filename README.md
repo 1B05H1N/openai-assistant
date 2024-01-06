@@ -1,4 +1,3 @@
-```markdown
 # Speech-to-Text ChatGPT Interface
 
 ## Introduction
@@ -43,6 +42,7 @@ This project is a speech-to-text interface that integrates with OpenAI's ChatGPT
 
 3. **Install Dependencies**:
    - Install the necessary Python packages:
+     
      ```
      pip install openai speechrecognition
      ```
