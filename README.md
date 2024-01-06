@@ -50,7 +50,6 @@ This project is a speech-to-text interface that integrates with OpenAI's ChatGPT
 ## License
 
 This project is released under the MIT License. This means it comes with permission for a wide range of uses with no restrictions on modifications or distribution.
-```
 
 ### Explanation of Requirements
 
